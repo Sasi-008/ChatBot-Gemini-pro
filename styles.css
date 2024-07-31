@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://media.istockphoto.com/id/865457032/vector/abstract-futuristic-cyberspace-with-binary-code-matrix-background-with-digits-well-organized.jpg?s=612x612&w=0&k=20&c=IQcdedY8fn_DMq6nwc5MaHUBe0H0d5DPyibHR8J2usk=');
+    background-size: auto;
+    background-position: center;
+}
+
+.stApp {
+    max-width: 800px;
+    margin: 85px 27% 45px 27%;
+    padding: 20px;
+    border: 2px solid #11823b;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
